@@ -36,7 +36,7 @@
 ### ✧✧ Deploy Video tutorial:
 - Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host Miku bot.
 - [Video Guide](https://youtu.be/fZdM7Ahb4JE)
-</br>
+https://github.com/Nimuzzz/Miku-MD-v3-03082022
 ## Heroku Deployment Method 1:
 
 #### ✧ Fork this repo.
